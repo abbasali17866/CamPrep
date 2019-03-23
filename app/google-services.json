@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "478311569779",
+    "firebase_url": "https://camprep-37ba8.firebaseio.com",
+    "project_id": "camprep-37ba8",
+    "storage_bucket": "camprep-37ba8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478311569779:android:dca3ce8ce2de10f5",
+        "android_client_info": {
+          "package_name": "com.technoweird.camprep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478311569779-vof0odr15k8at7o5b89chtfed4s634gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technoweird.camprep",
+            "certificate_hash": "5a5416fb3713bc43a0aa55794026e4d39e03d911"
+          }
+        },
+        {
+          "client_id": "478311569779-pgc8qf9vv5quds56bvnel76sthau085t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOhzFjlSsu6FISULKCpQNCuUyrRRudD0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478311569779-pgc8qf9vv5quds56bvnel76sthau085t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
